@@ -1,8 +1,3 @@
-# Programação Orientada a Objetos
-# AC03 - Herança e polimorfismo
-#
-# Email Impacta: talita.fujimoto@aluno.faculdadeimpacta.com.br
-
 import re 
 
 class Pessoa:
